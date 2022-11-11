@@ -1,0 +1,42 @@
+{
+    "floatSkins": [
+        {
+            "game_id": 730,
+            "market_hash_name": "MAG-7 | Metallic DDPAT (Factory New)",
+            "maxPercentageOfAutoBuy": 9,
+            "maxFloatToBuy": 0.00899999
+        },
+
+        {
+            "game_id": 730,
+            "market_hash_name": "P250 | Metallic DDPAT (Factory New)",
+            "maxPercentageOfAutoBuy": 9,
+            "maxFloatToBuy": 0.00899999
+        },
+
+        {
+            "game_id": 730,
+            "market_hash_name": "MAC-10 | Silver (Factory New)",
+            "maxPercentageOfAutoBuy": 9,
+            "maxFloatToBuy": 0.00899999
+        }
+    ],
+
+    "seedSkins": [
+        {
+            "game_id": 730,
+            "market_hash_name": "Desert Eagle | Sputnik (Factory New)",
+            "maxPercentageOfAutoBuy": 9,
+            "seedsToBuy": [1, 52, 523]
+        }
+    ],
+
+    "orderSkins": [
+        {
+            "game_id": 730,
+            "market_hash_name": "Dual Berettas | Contractor (Well-Worn)",
+            "minimalProfit": -0.1,
+            "delta": 1
+        }
+    ]
+}
